@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Archivos de logs
+*.log
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos generados por npm
+package-lock.json
+
+# Build
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

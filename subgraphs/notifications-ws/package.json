@@ -1,5 +1,5 @@
 {
-  "name": "notifications",
+  "name": "notifications-ws",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@apollo/server": "^5.5.1",
-    "@apollo/subgraph": "^2.14.1",
-    "cors": "^2.8.6",
-    "express": "^5.2.1",
     "graphql": "^16.14.2",
-    "graphql-subscriptions": "^3.0.0",
-    "graphql-tag": "^2.12.6",
-    "graphql-ws": "^6.0.8",
-    "ws": "^8.21.0"
+    "graphql-yoga": "^5.21.2"
   }
 }
